@@ -47,7 +47,7 @@ The models can be deployed for **automated receipt processing**, allowing:
 - Document Understanding  
 
 ## Team Members
-**- Le Sy Han – hanls.23bi14150@usth.edu.vn**
+- **Le Sy Han – hanls.23bi14150@usth.edu.vn**
 - Nguyen Quang Minh - minhnq.22ba13221@usth.edu.vn
 - Nguyen Cao Manh Thang - thangncm.23bi14403@usth.edu.vn
 - Nguyen Trong Bach - bachnt.23bi14057@usth.edu.vn
